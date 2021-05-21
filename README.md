@@ -1,4 +1,4 @@
-***The following code is for a web crawler that can perform different functions throughout instagram.***
+***The following code is for a web crawler that can perform different actions throughout instagram.***
 
 This web crawler uses selenium and is designed to scroll through instagram, find and message accounts based on certain hashtags, message an inputted list of many instagram accounts, and  like and comment on posts. This web crawler deal with various pop up dialogues while logging into instagram. It will also detect if a message has already been sent to an account and it will not message the same account twice. This feature is intended to reduce inappropriate spam. 
 
