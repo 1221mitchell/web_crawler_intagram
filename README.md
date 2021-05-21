@@ -6,4 +6,4 @@ This web crawler requires selenium and chrome driver. This web crawler works spe
 
 The data cleaning notebook is run on a large list of music accounts on instagram. I cleaned and used this data as a demo of the capabilities of this web crawler when messaging a list of inputted accounts. As mentioned above, this web crawler can also message accounts, comment on photos, and like posts using only a hashtag as an input.
 
-**This bot is designed as a demonstration of web crawling and is not intended to be used to spam accounts. I recommend running this bot with less than 15 actions at a time in any given use**
+**This bot is designed as a demonstration of web crawling and is not intended to be used to spam accounts. I recommend running this bot with less than 15 actions or less at a time in order to be respectful of other users.**
